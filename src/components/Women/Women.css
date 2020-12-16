@@ -1,0 +1,10 @@
+.women__container{
+    row-gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)) !important;
+}
+
+.women{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
