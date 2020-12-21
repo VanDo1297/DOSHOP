@@ -12,7 +12,7 @@ function Collection() {
                     <div className="collection__data">
                         <h3 className="collection__name">Nike</h3>
                         <p className="collection__description">New Collection</p>
-                        <a href="#" className="button-light">Buy now  <i className='bx bxs-right-arrow-alt button-icon'/></a>
+                        <a href="/#" className="button-light">Buy now  <i className='bx bxs-right-arrow-alt button-icon'/></a>
                     </div>
                     <img src={imgCollection1} alt="" className='collection__img'/>
                 </div>
@@ -21,7 +21,7 @@ function Collection() {
                     <div className="collection__data">
                         <h3 className="collection__name">Addidas</h3>
                         <p className="collection__description">New Collection</p>
-                        <a href="#" className="button-light">Buy now  <i className='bx bxs-right-arrow-alt button-icon'/></a>
+                        <a href="/#" className="button-light">Buy now  <i className='bx bxs-right-arrow-alt button-icon'/></a>
                     </div>
                     <img src={imgCollection2} alt="" className='collection__img'/>
                 </div>
